@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.groupworkmanagement" />
-                  <option name="mobileSdkAppId" value="1:116995179308:android:938dd9595d385c8a15a289" />
-                  <option name="projectId" value="chat-app-demo-c12ee" />
-                  <option name="projectNumber" value="116995179308" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

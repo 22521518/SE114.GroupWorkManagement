@@ -521,7 +521,7 @@ class GroupViewModel @Inject constructor(
                     creator = user,
                     progress = 100,
                     status = TASK_STATUS.LATE,
-                    deadline = "2024-05-01",//deadline,
+                    deadline = deadline,
                     totalMember = leaderList.size + memberList.size + 1
                 )
                 try {
