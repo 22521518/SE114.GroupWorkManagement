@@ -519,7 +519,7 @@ class GroupViewModel @Inject constructor(
                     listMemberId = listId,
                     group = it,
                     creator = user,
-                    progress = 100,
+                    progress = 0,
                     status = TASK_STATUS.LATE,
                     deadline = deadline,
                     totalMember = leaderList.size + memberList.size + 1
